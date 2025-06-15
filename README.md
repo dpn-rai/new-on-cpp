@@ -1,0 +1,2 @@
+# new-on-cpp
+tis my strartin of codin journey
